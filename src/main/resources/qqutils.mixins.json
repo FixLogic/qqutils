@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"package": "fixlogic.qqutils.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"LocatorBarMixin",
+		"ParticlePacketMixin",
+		"ServerEntryMixin",
+		"MultiplayerScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

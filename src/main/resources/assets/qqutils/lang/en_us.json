@@ -1,0 +1,19 @@
+{
+  "qqutils.chat.prefix": "[qqutils] %s",
+  "qqutils.command.module_status": "%1$s (%2$s): %3$s",
+  "qqutils.command.unknown_module": "Unknown module: %s",
+  "qqutils.config.save_failed": "Could not save settings; see the game log.",
+  "qqutils.config.load_failed": "Could not load settings; see the game log.",
+  "qqutils.config.reloaded": "Settings reloaded.",
+  "qqutils.config.particle_limit": "Particle limit per packet: %s",
+  "qqutils.config.server_refresh_lock": "Lock refresh button during a request: %s",
+  "qqutils.config.server_refresh_button": "Per-server refresh button: %s",
+  "qqutils.state.enabled": "Enabled",
+  "qqutils.state.disabled": "Disabled",
+  "qqutils.module.locator_names": "Locator bar names",
+  "qqutils.module.particle_guard": "Particle crash protection",
+  "qqutils.module.server_refresh": "Server refresh",
+  "qqutils.particle_guard.blocked": "Particle packet blocked. Particle count: %1$s",
+  "qqutils.server_refresh.button": "↻",
+  "qqutils.server_refresh.tooltip": "Refresh %s"
+}

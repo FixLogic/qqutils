@@ -1,0 +1,19 @@
+{
+  "qqutils.chat.prefix": "[qqutils] %s",
+  "qqutils.command.module_status": "%1$s (%2$s): %3$s",
+  "qqutils.command.unknown_module": "Неизвестный модуль: %s",
+  "qqutils.config.save_failed": "Не удалось сохранить настройки. Подробности в журнале игры.",
+  "qqutils.config.load_failed": "Не удалось загрузить настройки. Подробности в журнале игры.",
+  "qqutils.config.reloaded": "Настройки перезагружены.",
+  "qqutils.config.particle_limit": "Лимит частиц на пакет: %s",
+  "qqutils.config.server_refresh_lock": "Блокировка кнопки обновления во время запроса: %s",
+  "qqutils.config.server_refresh_button": "Кнопка обновления отдельного сервера: %s",
+  "qqutils.state.enabled": "Включено",
+  "qqutils.state.disabled": "Выключено",
+  "qqutils.module.locator_names": "Ники на локаторе",
+  "qqutils.module.particle_guard": "Защита от краша частицами",
+  "qqutils.module.server_refresh": "Обновление серверов",
+  "qqutils.particle_guard.blocked": "Пакет частиц отменён. Количество: %1$s",
+  "qqutils.server_refresh.button": "↻",
+  "qqutils.server_refresh.tooltip": "Обновить %s"
+}

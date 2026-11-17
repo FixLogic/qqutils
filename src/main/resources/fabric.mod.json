@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "qqutils",
+	"version": "${version}",
+	"name": "qqutils",
+	"description": "Client Utilities mod",
+	"authors": [
+		"fixlogic"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/qqutils/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"fixlogic.qqutils.Qqutils"
+		]
+	},
+	"mixins": [
+		"qqutils.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
